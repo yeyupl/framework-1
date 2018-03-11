@@ -1,5 +1,5 @@
 {
-    "name"       : "swoole/framework",
+    "name"       : "yeyupl/swoole-framework",
     "description": "PHP Networking framework & Application Server.",
     "type"       : "library",
     "keywords"   : ["library", "websocket", "server", "webserver", "client", "socket", "framework"],
